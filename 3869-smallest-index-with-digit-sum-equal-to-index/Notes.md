@@ -1,0 +1,1 @@
+<h2>smallest-index-with-digit-sum-equal-to-index Notes</h2><hr>[ Time taken: 1d 4hrs 5m 27s ]
